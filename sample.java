@@ -1,5 +1,5 @@
 // Program to print a text 5 times
-
+Author:Mamatha
 class Main {
   public static void main(String[] args) {
 
