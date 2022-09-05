@@ -1,4 +1,4 @@
-Author:Mamatha T
+Author:Mamatha
 class Main {
   public static void main(String[] args) {
 
