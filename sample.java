@@ -1,4 +1,3 @@
-// Program to print a text 5 times
 Author:Mamatha T
 class Main {
   public static void main(String[] args) {
